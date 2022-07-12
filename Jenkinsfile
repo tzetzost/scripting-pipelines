@@ -1,5 +1,5 @@
 
-build job: "scripting-pipelines-code-references/backend/${jenkinsProjectName}", propagate: false, wait: false
+build job: "scripting-pipelines-code-references/backend/prj", propagate: false, wait: false
 
 node {
 
